@@ -1,4 +1,4 @@
-# IPL-Indian-Premier-League-cricket-dbms-mini-project
+# Cricket Tournament Database
 First download and install the xampp server.
 Open the xampp control panel and then start apache server and mysql in it.
 Then click on the mysql' admin in xampp.
